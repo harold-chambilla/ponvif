@@ -1,6 +1,6 @@
 {
-    "name": "kuroneko-san/php-onvif",
-    "description": "PHP Onvif library to connect with Onvif devices",
+    "name": "harold-chambilla/ponvif",
+    "description": "Paquete para descubrimiento de cámaras ONVIF",
     "authors": [
         {
             "name": "KuroNeko-san"
